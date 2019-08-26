@@ -1,2 +1,2 @@
 sudo apt install python3-flask-sqlalchemy python3-flask python3-flask-script python3-pymysql python3-flask-socketio python3-flask-migrate
-sudo pip install flask flask-sqlalchemy Flask-Script Flask-Migrate
+sudo pip install flask flask-sqlalchemy Flask-Script Flask-Migrate PyMySQL flask-socketio
