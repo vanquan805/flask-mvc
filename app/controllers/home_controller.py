@@ -7,4 +7,4 @@ def index():
     #                  password="12356")
     # database.session.add(user)
     # database.session.commit()
-    return render_template('components.html')
+    return render_template('index.html')
